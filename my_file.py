@@ -6,4 +6,4 @@ def hi_there():
     pass
 
 def hi_there():
-    pass
+    return "my change on VS"
