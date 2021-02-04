@@ -1,6 +1,6 @@
 # My Git Project
 
-> My code for the git project
+> My scary conflict code for the git project
 
 ## Im in the feature branch
 
